@@ -6,4 +6,4 @@ African Institute for Mathematical Sciences Course:
 
 Dr Aidan Crilly
 
-Contained on this repo are the course materials for 2025 and 2026, include course slides, interactive exercises and assessments.
+Contained on this repo are the course materials for 2025 and 2026, including course slides, interactive exercises and assessments.
